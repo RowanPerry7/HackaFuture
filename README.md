@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+
+
 
 </header>
 
@@ -21,7 +21,6 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Enable GitHub Pages
 
 HackaFuture: Innovate, Collaborate, Transform 🚀
 Welcome to the official HackaFuture GitHub page! This is the hub for all things related to our innovation-driven hackathon, where participants come together to solve real-world challenges, showcase their skills, and create impactful digital solutions.
