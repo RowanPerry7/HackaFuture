@@ -23,20 +23,23 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 ## Step 1: Enable GitHub Pages
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+_HackaFuture: Innovate, Collaborate, Transform 🚀
+Welcome to the official HackaFuture GitHub page! This is the hub for all things related to our innovation-driven hackathon, where participants come together to solve real-world challenges, showcase their skills, and create impactful digital solutions.
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+🌟 What is HackaFuture?
+HackaFuture is a collaborative event that brings together developers, designers, and problem-solvers to tackle challenges through technology. Whether you're a seasoned coder or a creative thinker, this hackathon is your opportunity to innovate, collaborate, and transform ideas into reality.
 
-### :keyboard: Activity: Enable GitHub Pages
+🔥 What You Can Expect
+Exciting Challenges 💡 – Work on real-world problems and future-focused themes.
+Skill Development 📚 – Learn new technologies, sharpen your problem-solving skills, and expand your knowledge.
+Networking Opportunities 🤝 – Connect with like-minded individuals, mentors, and industry leaders.
+Showcase Your Talent 🎤 – Build a project, pitch your idea, and get recognized!
+🛠 Tech Stack & Resources
+Submit your work and present your solution.
+🚀 Ready to Hack the Future?
+Join us for an unforgettable experience of learning, creativity, and collaboration. Stay tuned for updates, project submissions, and event details!
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+Let’s Hack the Future! 💻✨
 
 <footer>
 
