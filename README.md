@@ -23,7 +23,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 ## Step 1: Enable GitHub Pages
 
-_HackaFuture: Innovate, Collaborate, Transform 🚀
+HackaFuture: Innovate, Collaborate, Transform 🚀
 Welcome to the official HackaFuture GitHub page! This is the hub for all things related to our innovation-driven hackathon, where participants come together to solve real-world challenges, showcase their skills, and create impactful digital solutions.
 
 🌟 What is HackaFuture?
